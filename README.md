@@ -28,7 +28,7 @@ This project demonstrates the **VLSI design of an FIR (Finite Impulse Response) 
 
 - **Name**: Shaik Apsar
 - **Project**: Academic VLSI Internship – FIR Filter Design
-- **College**: [Sri venkateswara college of engineering and technology,Chittoor]
+- **College**: [Sri Venkateswara College Of Engineering And Technology,Chittoor]
 
 ---
 
